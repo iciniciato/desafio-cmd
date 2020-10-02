@@ -1,4 +1,4 @@
-<h1><b>desafio-cmd-insiders</b></h1>
+<h1><b>desafio-cmd</b></h1>
 
 Olá! Neste readme irei dividir as informações relevantes em tópicos, o desafio passado foi:
 <br>
